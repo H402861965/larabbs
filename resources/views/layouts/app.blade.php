@@ -8,7 +8,7 @@
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <!-- csrf-token 标签是为了方便前端的 JavaScript 脚本获取 CSRF 令牌。 -->
+
     <title>@yield('title', 'LaraBBS') - Laravel 进阶教程</title>
 
     <!-- Styles -->
