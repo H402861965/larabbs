@@ -1,0 +1,161 @@
+[33mcommit 3c65e5f74ff9b5d6bebaaeee0ac5ef7b33bdbf23[m
+Author: vagrant <vagrant@homestead>
+Date:   Thu Mar 8 08:24:22 2018 +0000
+
+    Add queue for translate slug
+
+[33mcommit af60f5ceb464a0c2ff8a6ec8f69a440e65be022f[m
+Author: vagrant <vagrant@homestead>
+Date:   Thu Mar 8 07:50:09 2018 +0000
+
+    Auto translate slug
+
+[33mcommit 5f0c27656b81b657e3116951f07fb32b77a817aa[m
+Author: vagrant <vagrant@homestead>
+Date:   Thu Mar 8 07:21:12 2018 +0000
+
+    Author can delete topic
+
+[33mcommit 020a71e1ef89b3d06e02e1a40520fdaa7ddb6753[m
+Author: vagrant <vagrant@homestead>
+Date:   Thu Mar 8 07:09:20 2018 +0000
+
+    Users can edit their own topic
+
+[33mcommit 8b900bde21866b9a9a41d01427f79aad2a8ee1ff[m
+Author: vagrant <vagrant@homestead>
+Date:   Thu Mar 8 06:39:47 2018 +0000
+
+    Prevent XSS injection
+
+[33mcommit 8f04c91382499b6127675d628369fb998b517846[m
+Author: vagrant <vagrant@homestead>
+Date:   Thu Mar 8 06:22:52 2018 +0000
+
+    Topic detail page
+
+[33mcommit 45c86a948d21683184e6865961ac457b94e341f9[m
+Author: vagrant <vagrant@homestead>
+Date:   Thu Mar 8 06:12:26 2018 +0000
+
+    User can upload topic image
+
+[33mcommit e7df1c111105f22108c5ab6ccfa6f4e48626b9ee[m
+Author: vagrant <vagrant@homestead>
+Date:   Thu Mar 8 05:59:55 2018 +0000
+
+    WYSIWYG Editor
+
+[33mcommit b2954ba97ae9762e754a2e5ab4e454c050d929a1[m
+Author: vagrant <vagrant@homestead>
+Date:   Thu Mar 8 05:46:45 2018 +0000
+
+    User can create topic
+
+[33mcommit 94e2ce781a701236587051c879a48856fa582cd4[m
+Author: vagrant <vagrant@homestead>
+Date:   Thu Mar 8 03:04:42 2018 +0000
+
+    List topics created by user
+
+[33mcommit 150a227aa606d5f54067b5c9030f71a38ea95f9d[m
+Author: vagrant <vagrant@homestead>
+Date:   Thu Mar 8 02:49:10 2018 +0000
+
+    Topic order
+
+[33mcommit cfb9f45739b4e341a25127db8eda68a30f6669c2[m
+Author: vagrant <vagrant@homestead>
+Date:   Thu Mar 8 02:24:49 2018 +0000
+
+    Category topic list
+
+[33mcommit d3fce68e66f57906b01f8e57aedba012a3c83cf7[m
+Author: vagrant <vagrant@homestead>
+Date:   Thu Mar 8 01:29:39 2018 +0000
+
+    Topic index page
+
+[33mcommit fb0b53ed6181b3fa62cafab58342d32838a1db42[m
+Author: vagrant <vagrant@homestead>
+Date:   Wed Mar 7 10:44:53 2018 +0000
+
+    Seeding topics and users data
+
+[33mcommit 281c0cc4d9adc696b7ebff780f7c89466b4ff10b[m
+Author: vagrant <vagrant@homestead>
+Date:   Wed Mar 7 10:16:40 2018 +0000
+
+    Generated topics
+
+[33mcommit 9c814c9101cd7879ed209ee98ff4dd3b8590ccf0[m
+Author: vagrant <vagrant@homestead>
+Date:   Wed Mar 7 10:09:05 2018 +0000
+
+    Add generator
+
+[33mcommit 69cfa6605e63c8a04e7e2b75057b1a2291d8f83e[m
+Author: vagrant <vagrant@homestead>
+Date:   Wed Mar 7 10:06:14 2018 +0000
+
+    Create categories
+
+[33mcommit d27b304b77c7ab7f52e747e9ce274749e2ea3667[m
+Author: vagrant <vagrant@homestead>
+Date:   Wed Mar 7 09:51:57 2018 +0000
+
+    Only authorized user can edit user profile
+
+[33mcommit 8584e6c423382ba101d2c42885f13f9e2158a86e[m
+Author: vagrant <vagrant@homestead>
+Date:   Tue Mar 6 06:44:53 2018 +0000
+
+    Basic user profile editing
+
+[33mcommit 4d7fa39fc60c0019792f116e8c03ef3f03b2fd7b[m
+Author: vagrant <vagrant@homestead>
+Date:   Tue Mar 6 06:00:48 2018 +0000
+
+    用户
+
+[33mcommit f144155ab83dc834afcbbf396651fbf96173f0d3[m
+Author: vagrant <vagrant@homestead>
+Date:   Tue Mar 6 05:41:42 2018 +0000
+
+    Add captcha
+
+[33mcommit 178da028b856d3d0c9d97acade28a7c9586f21aa[m
+Author: vagrant <vagrant@homestead>
+Date:   Tue Mar 6 01:41:59 2018 +0000
+
+    Finish user auth
+
+[33mcommit df4dd04145981504c38a1caf1a6ddadc70ceb25a[m
+Author: vagrant <vagrant@homestead>
+Date:   Tue Mar 6 01:07:42 2018 +0000
+
+    Move user model to models folder
+
+[33mcommit df8b476b036d7d687c0670746041faf1af4cc367[m
+Author: vagrant <vagrant@homestead>
+Date:   Mon Mar 5 08:50:45 2018 +0000
+
+    Add custom helpers
+
+[33mcommit 90448d5bd09b9c4f9c508a026b16b8774c2fc894[m
+Author: vagrant <vagrant@homestead>
+Date:   Mon Mar 5 08:47:28 2018 +0000
+
+    Adjust configuration
+
+[33mcommit 10898be83e8e0bdc8f856411ccaebf4564893987[m
+Author: vagrant <vagrant@homestead>
+Date:   Mon Mar 5 08:29:54 2018 +0000
+
+    Add .editorconfig
+
+[33mcommit 60efd7679b1445f51f76477d35433fb649e9057f[m
+Author: vagrant <vagrant@homestead>
+Date:   Mon Mar 5 07:53:29 2018 +0000
+
+    Initial commit
